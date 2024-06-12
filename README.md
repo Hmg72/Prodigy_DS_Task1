@@ -1,4 +1,4 @@
-#Prodigy_DS_Task1
+# Prodigy_DS_Task1
 
 To create a bar chart or histogram to visualize the distribution of a variable, we first need to examine the contents of the files provided on world bank website 
 These files seem to contain population data based on their names. 
